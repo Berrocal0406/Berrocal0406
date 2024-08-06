@@ -5,9 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;ML+Enthusiast;Web+Designer;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
 
-<p align="center" >
-<img  height="400rem" src="https://scontent.fmex30-1.fna.fbcdn.net/v/t39.30808-6/454230510_3690929831166662_7706111712142765409_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=YfO6PDrP1W4Q7kNvgGKXYRy&_nc_ht=scontent.fmex30-1.fna&oh=00_AYAGJVEHhXEqsHs1zvyA26RN5oCbPm6MtTGRoSIftbtbLQ&oe=66B73E54" />
-</p>
+
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
