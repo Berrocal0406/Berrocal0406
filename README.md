@@ -34,7 +34,7 @@
 
 <div id="user-content-toc">
 <ul align="center">
-<h2 class="text">Github Stats💻</h2>
+<h2 class="text">💻Github Stats💻</h2>
 </ul>
 </div>
 <p align="center">
@@ -51,9 +51,6 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 <div>
-<a href="https://www.facebook.com/profile.php?id=100007490446208&locale=es_LA" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-</a>
 <a href="https://www.instagram.com/alfredobch.04/"style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
