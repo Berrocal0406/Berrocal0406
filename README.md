@@ -3,13 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo Berrocal</h1>
 <h3 align="center">A passionate Software Engineering student from México</h3>
 
-<!--#gh-dark-mode-only-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;ML+Enthusiast;Web+Designer;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
-<!--#gh-dark-mode-only-->
-
-<!--#gh-light-mode-only-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=000000&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;ML+Enthusiast;Web+Designer;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
-<!--#gh-light-mode-only-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4183c4&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;ML+Enthusiast;Web+Designer;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
