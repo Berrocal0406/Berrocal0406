@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,c,cs,cpp,html,css,bootstrap,js,mysql,laravel,notion,unity,discord,figma,gmail,visualstudio,vscode,windows,git,github&perline=14" />
+<img src="https://skillicons.dev/icons?i=py,c,cs,cpp,html,css,bootstrap,js,mysql,laravel,notion,unity,discord,figma,react,visualstudio,vscode,git,github&perline=14" />
 </a>
 </p>
 
