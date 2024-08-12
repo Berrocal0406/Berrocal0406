@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 📫 How to reach me **alfredobch2004@gmail.com**
+- 📫 How to reach me ****
 
 
 <div id="user-content-toc">
