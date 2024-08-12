@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **a.berrocal.dev@gmail.com**
 
 
 <div id="user-content-toc">
