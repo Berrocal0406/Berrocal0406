@@ -55,4 +55,8 @@
 <a href="" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/website-4183c4?style=for-the-badge&logo=About.me&logoColor=white" alt="LinkedIn">
+</a>
 </div>
+
