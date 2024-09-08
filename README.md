@@ -66,7 +66,7 @@
   <br clear="both">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berrocal0406&layout=pie&theme=dark" alt="Top Languages">
   <br clear="both">
-  <img src="https://raw.githubusercontent.com/Berrocal0406/Berrocal0406/main/dist/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Berrocal0406/Berrocal0406/main/dist/snake.svg" alt="Snake animation" />
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
