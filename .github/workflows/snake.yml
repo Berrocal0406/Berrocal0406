@@ -1,0 +1,31 @@
+name: Generate Snake
+
+# Ejecutar en un cron programado: Esto hará que la animación se actualice una vez al día
+on:
+  schedule:
+    - cron: "0 0 * * *" # Esto significa que se ejecutará todos los días a la medianoche
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Chequear el repositorio
+      - uses: actions/checkout@v2
+
+      # Instalar una acción que genera el snake
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Berrocal0406 # Cambia esto a tu nombre de usuario
+          svg_out_path: dist/snake.svg
+
+      # Subir el archivo SVG generado al repositorio
+      - name: Commit and Push snake animation
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: Update snake animation"
+          add: dist/snake.svg
