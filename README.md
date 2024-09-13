@@ -9,8 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=900&height=110&duration=4000&color=B3B3B3&lines=Software+Engineering+Student;DevOps+Practitioner;AI+Enthusiast;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
 
+
 - 🌱 I’m currently learning **Linux**
 - 📫 How to reach me: **a.berrocal.dev@gmail.com**
+- 🏆 My Certifications: **https://github.com/Berrocal0406/Certifications**
 
 <br clear="both">
 
@@ -72,7 +74,13 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" alt="Instagram">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/website-4183c4?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Website">
+  <a href="https://www.instagram.com/alfredobch.04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
+  </a>
+  <a href="https://tu_pagina_web.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-4183c4?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Website">
+  </a>
 </div>
