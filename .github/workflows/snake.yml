@@ -1,9 +1,10 @@
 name: Generate Snake Animation
 
-# Este cron ejecuta el workflow cada 12 horas
+# Este cron ejecuta el workflow cada 2 semanas
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Ejecuta el workflow cada dos semanas (domingo a la medianoche UTC)
+    - cron: "0 0 * * 0/14"
 
   # También se puede ejecutar manualmente
   workflow_dispatch:
@@ -29,5 +30,7 @@ jobs:
         with:
           message: "Generated snake animation"
           add: dist/snake.svg
+          author_name: "github-actions"       # Cambiamos el autor
+          author_email: "actions@github.com"  # Cambiamos el correo Estos dos con el fin de que no refleje commits en mi historial
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
