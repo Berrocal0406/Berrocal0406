@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo Berrocal</h1>
 <h3 align="center">A passionate Software Engineering student from México</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=900&height=110&duration=4000&color=B3B3B3&lines=Software+Engineering+Student;DevOps+Practitioner;AI+Enthusiast;Web+Developer;A+Good+Person+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=900&height=110&duration=3000&color=B3B3B3&lines=Software+Engineering+Student;DevOps+Practitioner;Agile+Collaborator;Problem+Solver;AI+Enthusiast;A+Good+Person+!)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Linux**
