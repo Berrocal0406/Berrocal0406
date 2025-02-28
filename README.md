@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **Linux**
 - 📫 How to reach me: **a.berrocal.dev@gmail.com**
 - 🏆 My Certifications: **https://github.com/Berrocal0406/Certifications**
+- 💻 My web portfolio: **https://portafolio-web-astro-berrocal.vercel.app/**
 
 <br clear="both">
 
@@ -81,7 +82,7 @@
   <a href="https://www.linkedin.com/in/alfredo-berrocal-64079a308?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2vtJ0v3HQzimxashAjCOgg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
   </a>
-  <a href="https://tu_pagina_web.com" target="_blank">
+  <a href="https://portafolio-web-astro-berrocal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-4183c4?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="Website">
   </a>
 </div>
