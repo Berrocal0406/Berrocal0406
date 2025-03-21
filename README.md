@@ -24,8 +24,6 @@
 <img align="right" height="225" src="https://i.pinimg.com/originals/a3/ce/53/a3ce53d80c7e1bb2c2ccb415cef9c8ad.gif" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
