@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=900&height=110&duration=3000&color=B3B3B3&lines=Software+Engineering+Student;Agile+Collaborator;Problem+Solver;AI+Enthusiast;A+Good+Person+!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning about **SQL, MySQL, IA, QA**
+- 🌱 I’m currently learning about **QA and DBA Topics**
 - 📫 How to reach me: **a.berrocal.dev@gmail.com**
 - 💻 My web portfolio: **https://portafolio-web-astro-berrocal.vercel.app/**
 
